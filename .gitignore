@@ -1,0 +1,5 @@
+/db/sandbox_development
+/db/sandbox_test
+/public/assets*
+/tmp
+/.idea/
